@@ -3,7 +3,7 @@ main:
     authors: Jushan Chen, Jonathan Fried, and Santiago Paternain
     conference_short: In Review
     conference: 
-    pdf: 
+    pdf: https://arxiv.org/abs/2604.16670
     code: 
     image: ./assets/img/robot_dual.png
 

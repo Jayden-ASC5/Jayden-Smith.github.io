@@ -12,19 +12,16 @@ One of my hobbies is maximizing and redeeming the value of my credit card points
 
 ## Research Interests
 
+- **Model Predictive Control:** optimizing commanded inputs by predicting the system response
 - **Trajectory Optimization:** trajectory optimization for multi-robot systems
-- **SLAM:** deep visual odometry
-- **Multi-robot Systems:** decentralized optimization/control
-- **Generative AI in robotics:** diffusion models for planning
+- **Sensor Fusion:** accurate state estimation
 
 ## News
-- **[Jan. 2026]** Our paper "[PAD-TRO: Projection-Augmented Diffusion for Direct Trajectory Optimization](https://arxiv.org/abs/2510.04436)" is accepted for publication at the 2026 American Control Conference!
-- **[June. 2025]** I started my internship as a Control Systems Intern at [DEKA Research & Development](https://dekaresearch.com/).
-- **[Mar. 2025]** Our paper "[Learning Closed-Loop Parametric Nash Equilibria of Multi-Agent Collaborative Field Coverage](https://arxiv.org/abs/2503.11829)" is now available in preprint on arxiv!
-- **[May. 2024]** I finished my M.S. in aerospace engineering at UIUC. My thesis, titled "Improved pose estimation accuracy of monocular deep visual odometry against dynamic entities via adversarial training," is made publicly available!
-- **[Mar. 2024]** I have become a US permanent resident and received my green card! I am actively looking for summer internships in aerospace & defense!
-- **[Jan. 2023]** Our paper titled "[Distributed Potential ILQR: Scalable Game-Theoretic Trajectory Planning for
-Multi-Agent Interactions](https://ieeexplore.ieee.org/document/10161176)" is accepted to the 2023 IEEE International Conference on Robotics & Automation (ICRA 2023)!
+- **[May. 2025]** I received the Boeing Fellowship for Rensselaer Graduate Students
+- **[May. 2025]** I started my internship as a Robotcs Intern at [The Design Lab @ RPI](https://designlab.rpi.edu/)
+- **[May. 2025]** I finished my B.S. in Mechanical Engineering at RPI
+- **[Aug. 2024]** I was accepted to the Rensselaer Polytechnic Institute Accelerated BS/PhD Program in Mechanical Engineering
+- **[Jun. 2024]** Our paper titled "[Aerodynamics-Aware Design and Analysis of Controllers for Tailsitter Vehicles](https://ieeexplore.ieee.org/document/10557463)" was accepted to the 2024 IEEE/ASME Transactions on Mechatronics
 
 
 {% include_relative _includes/publications.md %}

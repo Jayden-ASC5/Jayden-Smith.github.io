@@ -23,7 +23,6 @@ One of my hobbies is maximizing and redeeming the value of my credit card points
 - **[Aug. 2024]** I was accepted to the Rensselaer Polytechnic Institute Accelerated BS/PhD Program in Mechanical Engineering
 - **[Jun. 2024]** Our paper titled "[Aerodynamics-Aware Design and Analysis of Controllers for Tailsitter Vehicles](https://ieeexplore.ieee.org/document/10557463)" was accepted to the 2024 IEEE/ASME Transactions on Mechatronics
 
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}

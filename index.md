@@ -6,9 +6,7 @@ layout: homepage
 
 I am pursuing my PhD in Mechanical Engineering at [Rensselaer Polytechnic Institute](https://mane.rpi.edu/), advised by [Dr. Sandipan Mishra](https://faculty.rpi.edu/sandipan-mishra), with a focus in Robotics and Control Systems. My research examines in-situ control of material properties and geometry in Wire-Arc Additive Manufacturing using robotic manipulators. I hold a B.S. in Mechanical Engineering from RPI, with a concentration in Dynamics and Controls and minors in Electrical Engineering and Philosophy.
 
-I moved to the U.S. at the age of 16 and finished high school in Columbia, South Carolina. In my leisure time, I play the piano, play video games, go to the gym, etc. I also like singing; I am a huge fan of Jay Chou (周杰伦，a phenomenal mega star who is the equivalent of Bruno Mars of Asia in terms of his influence). I went to his concert in 2013, when I was 13 years old. 
-
-One of my hobbies is maximizing and redeeming the value of my credit card points & miles to get free hotel nights and free flights back and forth between the U.S. and Asia (it's in fact an optimization problem~). I also have a Youtube channel, and I'm shooting vlogs occasionally for my trips across the U.S. and Asia.
+Outside the lab, I'm a New Yorker who plays bass guitar, video games, and loves to explore new places. My main pastime is learning about and building robots. I helped start the RPI Robotics Club and currently serve as a team lead on a Robotic Art Installation project. I find the intersection of robotics and art genuinely compelling; my favorite work is Can't Help Myself by Sun Yuan and Peng Yu.
 
 ## Research Interests
 

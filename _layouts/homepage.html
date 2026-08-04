@@ -93,6 +93,12 @@
         </div>
         <br>
 
+        <nav class="site-nav">
+          <a href="{{ '/' | relative_url }}" {% if page.url == '/' or page.url == '/index.html' %}class="active"{% endif %}>Home</a>
+          <a href="{{ '/portfolio.html' | relative_url }}" {% if page.url contains 'portfolio' %}class="active"{% endif %}>Portfolio</a>
+        </nav>
+        <br>
+
       </header>
       <section>
 

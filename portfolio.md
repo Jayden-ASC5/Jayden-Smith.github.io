@@ -5,7 +5,8 @@ title: Portfolio | Jayden Smith
 
 # Portfolio
 
-A collection of research, internship, club, and personal projects. Click any title to learn more.
+(Work In Progress)
+A collection of research, internship, club, and personal projects. Click any title to learn more. 
 
 ---
 

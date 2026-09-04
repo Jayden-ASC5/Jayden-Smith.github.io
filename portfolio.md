@@ -5,6 +5,8 @@ title: Portfolio | Jayden Smith
 
 # Portfolio
 
+*(Work In Progress)*
+
 A collection of research, internship, club, and personal projects, grouped by category. Use the filters below to jump to a specific group, or click any title to read the full write-up.
 
 <div class="category-filters">

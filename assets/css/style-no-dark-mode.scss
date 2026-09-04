@@ -26,3 +26,35 @@
   border-color: #043361;
   font-weight: 500;
 }
+
+.project-page img,
+section img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.category-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 1em 0 1.5em;
+}
+.category-filters .filter-btn {
+  display: inline-block;
+  padding: 0.3em 0.9em;
+  font-size: 0.85rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+  color: #666;
+  text-decoration: none;
+}
+.category-filters .filter-btn:hover {
+  color: #069;
+  border-color: #069;
+}
+.category-filters .filter-btn.active {
+  background: #043361;
+  border-color: #043361;
+  color: #fff;
+}

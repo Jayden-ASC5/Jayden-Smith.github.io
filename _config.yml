@@ -1,4 +1,9 @@
-# Basic Information 
+# Basic Information
+# This repo is served as a GitHub Pages *project* site (no custom domain via
+# CNAME), i.e. at https://jayden-asc5.github.io/Jayden-Smith.github.io/ — so
+# baseurl must be set for any root-relative link (relative_url filter, etc.)
+# to resolve correctly instead of pointing at the bare domain.
+baseurl: /Jayden-Smith.github.io
 title: Jayden Smith
 position: Ph.D. Student
 affiliation: Rensselaer Polytechnic Institute
@@ -54,3 +59,27 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# Portfolio
+# Each project lives as its own file in _projects/, gets its own page, and is
+# grouped on the portfolio index by its "category" front matter field. Add a
+# new category here (order = display order); it only appears on the page once
+# at least one project uses it.
+collections:
+  projects:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+project_categories:
+  - Research
+  - Internships
+  - Class Projects
+  - Clubs & Leadership
+  - Personal Projects
